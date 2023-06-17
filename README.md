@@ -1,16 +1,21 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/shrektiler/shrektiler/master/header.png)
+# Welcome!
 
-<!--
-**shrektiler/shrektiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught passionate developer and a high-school student I am very interested in working and improving everyday.
+I love taking on random projects in my free time.
+Lorem Ipsum
 
-Here are some ideas to get you started:
+## My Skills
+###
+[![My Skills](https://skillicons.dev/icons?i=cs,css,java,py,ps,pr,powershell,unity,unreal)](https://skillicons.dev)
+###
+[![Apps](https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,idea,vscode,replit,heroku,gradle,wordpress)](https://skillicons.dev)
+##
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=d16900&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d1007a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
