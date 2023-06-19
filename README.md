@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/shrektiler/shrektiler/master/header.png)
+![Header](https://raw.githubusercontent.com/paramkudle/paramkudle/master/header.png)
 # Welcome!
 
 I'm a self-taught passionate developer and a high-school student I am very interested in working and improving everyday.
