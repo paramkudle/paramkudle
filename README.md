@@ -3,7 +3,6 @@
 
 I'm a self-taught passionate developer and a high-school student I am very interested in working and improving everyday.
 I love taking on random projects in my free time.
-Lorem Ipsum
 
 ## My Skills
 ###
